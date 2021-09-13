@@ -1,5 +1,5 @@
-# Clean Code
-### 7 Core Clean Code principles to remember
+# 7 Core Clean Code principles to remember
+### *Clean Code*
 
 1. #### Names
    1. It must be precise and pass your central idea immediately. That is, it should go straight to the point;
